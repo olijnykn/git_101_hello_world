@@ -1,0 +1,1 @@
+print("Hello, world! This is my example app for Git practice!")
